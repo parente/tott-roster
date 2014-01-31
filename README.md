@@ -15,3 +15,4 @@ See https://help.github.com/articles/using-pull-requests for help.
 ## Roster
 
 * parente
+* Coalman
